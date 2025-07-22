@@ -1,0 +1,33 @@
+Age,Gender,Occupation,AI_Devices,AI_Hours_Per_Day,Frequent_AI_Apps,Decision_Sentiment,Productivity_Effect,AI_Anxiety_Level,Rely_On_AI,Privacy_Concern,Tech_Dependence,Trust_Ethical_AI,Own_Important_Decisions,Do you have any additional comments or concerns about the influence of AI on your life?
+15,Male,Student,Smartphone,7,"Google Assistant, Netflix Recommendations, YouTube Recommendations, ChatGPT",5,Improving productivity,4,1,Somewhat concerned,1.0,4,1,     
+15,Male,Student,"Smartphone, Laptops",1,"Google Assistant, ChatGPT",9,Improving productivity,3,1,Not concerned,10.0,7,1,"Sometimes May get a fear does AI will replace Humans in applicable industry including software, management etc.. but however AI is helping us in a better way to improve our productivity and saving tons of time and effort which can be used to do something big."
+15,Male,Student,"Smartphone, Laptops",1,"Siri (Apple), ChatGPT",9,Harming productivity,3,0,Somewhat concerned,1.0,8,0,Nope
+15,Female,Student,"Smartphone, Smart Watches (e.g., Apple Watch, Fitbit), Laptops",8,"YouTube Recommendations, ChatGPT",5,Improving productivity,4,1,Very concerned,10.0,3,1,Increasing dependency on AI being harmful 
+15,Female,Student,"Smartphone, Laptops",10,"Google Assistant, ChatGPT",5,Harming productivity,6,1,Very concerned,10.0,8,1,-
+15,Female,Student,"Smartphone, Smart Watches (e.g., Apple Watch, Fitbit), Laptops",5,"Siri (Apple), Google Assistant, Netflix Recommendations, YouTube Recommendations, ChatGPT",5,Harming productivity,7,1,Very concerned,10.0,2,1,Nope
+15,Female,Student,"Smartphone, Laptops",5,"Google Assistant, ChatGPT",7,Harming productivity,7,1,Somewhat concerned,1.0,5,1,.
+15,Female,Student,Smartphone,2,"Google Assistant, YouTube Recommendations, ChatGPT",6,Improving productivity,2,1,Somewhat concerned,1.0,4,1,"As long as AI serves to uplift me,I will continue to cherish it"
+15,Male,Student,"Smartphone, Laptops",6,"YouTube Recommendations, ChatGPT",8,Improving productivity,2,1,Somewhat concerned,10.0,7,0,It's very helpful and makes work easier..
+15,Female,Student,Smartphone,7,ChatGPT,4,Improving productivity,1,1,Somewhat concerned,1.0,6,0,No
+15,Female,Student,Smartphone,4,"YouTube Recommendations, ChatGPT",5,Harming productivity,2,1,Somewhat concerned,10.0,3,0,Nil
+21,Male,Other,Smartphone,3,Google Assistant,7,Improving productivity,5,1,Somewhat concerned,10.0,5,1,No
+15,Male,Student,"Smartphone, Smart Speakers (e.g., Amazon Alexa, Google Home), Smart Watches (e.g., Apple Watch, Fitbit), Laptops",2,"Google Assistant, Amazon Alexa, ChatGPT",7,Improving productivity,1,1,Somewhat concerned,10.0,3,1,"AI has made my daily life easier by helping me get quick answers, reminders, and suggestions. It supports my learning by providing personalized help with studies, coding, and new skills. AI tools save me time and boost my creativity in tasks like writing, designing, and planning."
+15,Female,Student,"Smartphone, Laptops",5,"Siri (Apple), Amazon Alexa, Netflix Recommendations, YouTube Recommendations, AI-based Fitness Apps (e.g., Peloton, MyFitnessPal), ChatGPT",5,Improving productivity,3,1,Very concerned,10.0,5,1,Ai was good until we use it properly with certain limits rather than completely rely on it
+21,Male,Student,Smartphone,1,ChatGPT,8,Improving productivity,1,0,Very concerned,10.0,5,0,No
+15,Female,Student,Smartphone,1,"Google Assistant, Netflix Recommendations, YouTube Recommendations, ChatGPT",5,Harming productivity,5,0,Somewhat concerned,10.0,10,0,"Yes,i strongly believe AI can cause great danger in the future."
+15,Female,Student,"Smartphone, Laptops",1,"Google Assistant, YouTube Recommendations",1,Harming productivity,4,0,Somewhat concerned,1.0,1,1,Ai may have improbed decision making or shit but i literally made all the ppl lazy and the fact that humanly feelings are read by a code and processed by it is concerning for some reason
+15,Male,Student,"Smartphone, Laptops",10,"Netflix Recommendations, YouTube Recommendations, ChatGPT",8,Improving productivity,5,0,Somewhat concerned,10.0,4,0,No
+21,Male,Student,"Smartphone, Laptops",1,ChatGPT,5,Harming productivity,1,1,Somewhat concerned,10.0,5,0,The humans are vsry dependent on ai.it kills the creativity of the humans
+15,Female,Student,Smartphone,5,ChatGPT,5,Improving productivity,5,1,Very concerned,10.0,2,0,Hope AI won't take away the reality of this world
+15,Female,Student,"Smartphone, Smart Speakers (e.g., Amazon Alexa, Google Home), Smart Watches (e.g., Apple Watch, Fitbit)",6,"Siri (Apple), Google Assistant, Amazon Alexa, Smart Home Apps (e.g., Nest, Ring)",6,Improving productivity,6,1,Very concerned,10.0,6,1,No
+15,Female,Student,Smartphone,5,"YouTube Recommendations, ChatGPT",10,Improving productivity,1,1,Very concerned,10.0,10,0,
+15,Female,Student,Smartphone,3,ChatGPT,7,Harming productivity,7,1,Very concerned,10.0,7,1,-
+15,Female,Student,Smartphone,2,ChatGPT,6,Improving productivity,6,1,Very concerned,1.0,5,0,No
+15,Female,Student,"Smartphone, Laptops",2,"Google Assistant, Netflix Recommendations, YouTube Recommendations, ChatGPT",8,Improving productivity,3,1,Very concerned,10.0,8,0,"No proper concern , unless ai is used for personal gain and harmless use it is a very good part of technology , dont use it for unnessasary things"
+21,Male,Student,"Smartphone, Laptops",1,ChatGPT,2,Harming productivity,6,0,Very concerned,1.0,1,1,A
+15,Female,Student,"Smartphone, Smart Speakers (e.g., Amazon Alexa, Google Home), Laptops",4,"Google Assistant, Netflix Recommendations, ChatGPT",4,Improving productivity,5,1,Somewhat concerned,10.0,3,1,no
+21,Male,Student,Laptops,5,ChatGPT,7,Improving productivity,8,1,Somewhat concerned,1.0,9,1,
+21,Male,Student,Smartphone,2,"YouTube Recommendations, ChatGPT",8,No impact on productivity,5,1,Somewhat concerned,1.0,4,0,It might leads to job loss
+21,Male,"Professional (e.g., engineer, doctor)","Smartphone, Smart Speakers (e.g., Amazon Alexa, Google Home), Smart Watches (e.g., Apple Watch, Fitbit), Self-driving cars, AI-powered home automation systems, Laptops",10,"Siri (Apple), Google Assistant, Amazon Alexa, Netflix Recommendations, YouTube Recommendations, Smart Home Apps (e.g., Nest, Ring), AI-based Fitness Apps (e.g., Peloton, MyFitnessPal), ChatGPT",10,Harming productivity,10,0,Very concerned,10.0,10,0,Dei kabilash pothuma daa
+15,Male,Student,Smartphone,1,ChatGPT,10,Improving productivity,1,0,Very concerned,10.0,7,0,No
+21,Male,Student,"Smartphone, Laptops",6,"Google Assistant, Netflix Recommendations, YouTube Recommendations, AI-based Fitness Apps (e.g., Peloton, MyFitnessPal), ChatGPT",8,Improving productivity,2,0,Very concerned,1.0,8,1,AI making human lazy
