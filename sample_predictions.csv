@@ -1,0 +1,6 @@
+County,State,Vehicle Primary Use,Battery Electric Vehicles (BEVs),Plug-In Hybrid Electric Vehicles (PHEVs),Electric Vehicle (EV) Total,Non-Electric Vehicle Total,Total Vehicles,Percent Electric Vehicles,Year,Month,Day,Date,Predicted_EV_Total
+Riverside,CA,Passenger,10,5,15,500,515,2.91,2024,6,30,2024-06-30,5.0
+Prince William,VA,Passenger,5,8,13,200,213,6.1,2024,6,30,2024-06-30,7.000000000000114
+Dakota,MN,Passenger,2,3,5,40,45,11.11,2024,6,30,2024-06-30,2.999999999999943
+Ferry,WA,Truck,1,2,3,3600,3603,0.08,2024,6,30,2024-06-30,13.000000000000114
+Douglas,CO,Passenger,3,4,7,90,97,7.22,2024,6,30,2024-06-30,15.000000000000227
